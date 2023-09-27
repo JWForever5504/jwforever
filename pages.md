@@ -1,6 +1,6 @@
 .
-├── index.md    # => http://jwforever.com/
+├── index.md    # =>jwforever.com/
 ├── downloads    # folder containing pages
-│   └── add-on.md       # => http://jwforever.com/downloads
+│   └── add-on.md       # => jwforever.com/downloads
 ├── about    # folder containing pages
-│   └── about_me.md       # => http://jwforever.com/about_me
+│   └── about_me.md       # => jwforever.com/about_me
