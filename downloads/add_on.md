@@ -8,6 +8,8 @@ This add-on allows you to switch into Free Camera mode, similar to Freecam for J
 
 [![Showcase](http://img.youtube.com/vi/oX_L6tGGZmA/0.jpg)](https://youtu.be/oX_L6tGGZmA "Free Camera Add-on")
 
+[Download](https://github.com/JWForever5504/jwforever/releases/tag/Free_Camera)
+
 #### Death Race for Bedrock
 This add-on creates a race to see who can die in a randomly assigned way first. Great fun for a group of friends!
 
