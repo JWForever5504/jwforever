@@ -13,6 +13,8 @@ This add-on allows you to switch into Free Camera mode, similar to Freecam for J
 #### Death Race for Bedrock
 This add-on creates a race to see who can die in a randomly assigned way first. Great fun for a group of friends!
 
+[Download](https://github.com/JWForever5504/jwforever/releases/tag/Death_Race)
+
 ### Maps
 #### Platformer Game
 This map is a simple platformer game made using commands and a resource pack.
